@@ -1,2 +1,2 @@
 # toy
-Just create the toy
+Just create the toys
